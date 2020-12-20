@@ -25,7 +25,7 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        Gatsby Tutorial Starter -{' '}
+        A blog mostly about mediaeval Icelandic literature; powered by Gatsby by -{' '}
         <a href="https://justinformentin.com">Justin Formentin</a>
       </span>
     </Text>
