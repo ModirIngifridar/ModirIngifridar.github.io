@@ -4,7 +4,7 @@ cover: "./iven.jpg"
 date: "2020-12-18"
 title: "So It Begins..."
 published: true
-tags: ['website', 'react', 'other']
+tags: ['Old Norse']
 ---
 This blog is mostly being written around midnight, while waiting for my newborn daughter to fall asleep. Though the author has a PhD in Old Norse literature, she has come to realize some theories and ideas simply cannot be defended in a peer-review process – they are not objective enough. Nevertheless, I believe they are still worth sharing.
 
