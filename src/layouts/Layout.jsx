@@ -53,6 +53,9 @@ const Layout = ({ children }) => (
           h1 {
             font-family: ${theme.fontFamily.heading};
           }
+          picture > img {
+            max-height: 300px;
+            }
 
           ${headroom}
         `}
