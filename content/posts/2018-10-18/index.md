@@ -1,6 +1,6 @@
 ---
 path: "/post-four"
-cover: "../2018-10-17/mary.jpg"
+cover: "../mary.jpg"
 date: "2021-01-27"
 title: "Queen Geirþruðr"
 tags: ['Old Norse']
