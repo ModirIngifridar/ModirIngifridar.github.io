@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
-import { Header, PostList } from 'components';
+import { Header, PostList, SEO } from 'components';
 import { Layout } from 'layouts';
 
 const PostWrapper = styled.div`
@@ -24,6 +24,13 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
+      <SEO
+        title={title}
+        description={description || excerpt || ' '}
+        banner={image}
+        pathname={path}
+        article
+      />
       <Helmet title={'Home Page'} />
       <Header title="Home Page">Midnight Mediaeval Thoughts</Header>
       <PostWrapper>

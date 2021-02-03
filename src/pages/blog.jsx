@@ -2,13 +2,20 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
-import { Header, BlogList } from 'components';
+import { Header, BlogList, SEO } from 'components';
 import { Layout } from 'layouts';
 
 const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
+      <SEO
+        title={title}
+        description={description || excerpt || ' '}
+        banner={image}
+        pathname={path}
+        article
+      />
       <Helmet title={'Blog Page'} />
       <Header title="Blog Page">Midnight Mediaeval Thoughts</Header>
       {edges.map(({ node }) => (
