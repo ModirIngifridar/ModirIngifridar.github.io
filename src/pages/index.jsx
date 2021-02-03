@@ -25,11 +25,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <SEO
-        title={title}
-        description={description || excerpt || ' '}
-        banner={image}
-        pathname={path}
-        article
+        title="Midnight Mediaeval Thoughts"
       />
       <Helmet title={'Home Page'} />
       <Header title="Home Page">Midnight Mediaeval Thoughts</Header>

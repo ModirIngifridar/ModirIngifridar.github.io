@@ -7,11 +7,7 @@ import { Layout, Container } from 'layouts';
 const About = center => (
   <Layout>
       <SEO
-        title={title}
-        description={description || excerpt || ' '}
-        banner={image}
-        pathname={path}
-        article
+        title="Midnight Mediaeval Thoughts"
       />
     <Helmet title={'About Page'} />
     <Header title="About Page">About this blog</Header>

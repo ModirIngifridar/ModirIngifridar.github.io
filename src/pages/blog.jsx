@@ -10,11 +10,7 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <SEO
-        title={title}
-        description={description || excerpt || ' '}
-        banner={image}
-        pathname={path}
-        article
+        title="Midnight Mediaeval Thoughts"
       />
       <Helmet title={'Blog Page'} />
       <Header title="Blog Page">Midnight Mediaeval Thoughts</Header>
