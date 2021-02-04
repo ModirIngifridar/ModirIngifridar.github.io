@@ -25,7 +25,7 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        A blog mostly about mediaeval Icelandic literature
+        A blog mostly about mediaeval Icelandic literature, Twitter: <a href="https://twitter.com/ingifridar">@ingifridar</a>
       </span>
       <span><font size="1">
       <br/>powered by Gatsby, based on gatsby-tutorial-starter by -{' '} <a href="https://justinformentin.com">Justin Formentin</a>
