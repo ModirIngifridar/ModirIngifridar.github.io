@@ -1,6 +1,6 @@
 ---
 path: "/post-five"
-cover: "./valkyrja.JPG"
+cover: "./valkyrja.jpg"
 date: "2021-02-12"
 title: "Valkyries and others"
 tags: ['Old Norse', 'valkyries']
