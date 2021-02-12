@@ -3,7 +3,7 @@ path: "/post-five"
 cover: ".valkyrja.jpg"
 date: "2020-02-12"
 title: "Valkyries and shield-maidens"
-tags: ['Old Norse', 'valkyries', 'equality']
+tags: ['Old Norse', 'valkyries']
 published: true
 ---
 Thousands of pages have been written on the topic of valkyries and shield-maidens and I am sure many more are to come. How could I resist? I have already mentioned some of the following ideas in my dissertation but – as always – it turns out that there is more to be said.
