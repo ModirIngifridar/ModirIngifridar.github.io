@@ -1,6 +1,6 @@
 ---
 path: "/post-five"
-cover: ".valkyrja.jpg"
+cover: "./valkyrja.jpg"
 date: "2020-02-12"
 title: "Valkyries and shield-maidens"
 tags: ['Old Norse', 'valkyries']
