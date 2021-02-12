@@ -1,7 +1,7 @@
 ---
 path: "/post-five"
 cover: "./valkyrja.jpg"
-date: "2020-02-12"
+date: "2021-02-12"
 title: "Valkyries and shield-maidens"
 tags: ['Old Norse', 'valkyries']
 published: true
